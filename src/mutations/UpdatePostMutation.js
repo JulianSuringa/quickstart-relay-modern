@@ -40,19 +40,20 @@ export default function UpdatePostMutation(description, imageUrl, viewerId, call
       },
       onError: err => console.error(err),
       optimisticUpdater: (proxyStore) => {
-        // 1 - create the `newPost` as a mock that can be added to the store
-      /*  const id = clientMutationId
-        const newPost = proxyStore.create(id, 'Post')
-        newPost.setValue(id, 'id')
-        newPost.setValue(description, 'description')
-        newPost.setValue(imageUrl, 'imageUrl')*/
+        // TODO for update.
+        // // 1 - create the `newPost` as a mock that can be added to the store
+        // const id = clientMutationId
+        // const newPost = proxyStore.create(id, 'Post')
+        // newPost.setValue(id, 'id')
+        // newPost.setValue(description, 'description')
+        // newPost.setValue(imageUrl, 'imageUrl')*/
 
-        // 2 - add `newPost` to the store
-       /* const viewerProxy = proxyStore.get(viewerId)
-        const connection = ConnectionHandler.getConnection(viewerProxy, 'ListPage_allPosts')
-        if (connection) {
-          ConnectionHandler.insertEdgeAfter(connection, newPost)
-        }*/
+        // // 2 - add `newPost` to the store
+        // const viewerProxy = proxyStore.get(viewerId)
+        // const connection = ConnectionHandler.getConnection(viewerProxy, 'ListPage_allPosts')
+        // if (connection) {
+        //   ConnectionHandler.insertEdgeAfter(connection, newPost)
+        // }
       },
       updater: (proxyStore) => {
         // 1 - retrieve the `newPost` from the server response
