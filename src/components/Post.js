@@ -24,16 +24,14 @@ class Post extends React.Component {
         <div className='pt3'>
           {this.props.post.description}&nbsp;
           <span
-            style={{'float': 'right'}}
-            className='f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-red'
+            className='f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-red btn-delete'
             onClick={this._handleDelete}
           >Delete</span>
           <Link to={{
               pathname: `/update/${this.props.post.id}`,
               state: { ...this.props.post }
             }}
-             style={{'float': 'right', 'marginRight': '5px'}}
-            className='f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-blue'>
+            className='f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-blue btn-update'>
             Update
           </Link>
         </div>
