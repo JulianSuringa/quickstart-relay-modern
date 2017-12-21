@@ -7,7 +7,7 @@
 ## Example 
 
 ![](http://imgur.com/3S6fUeI.gif)
-
+![](https://i.imgur.com/Vdy8kAp.gifv)
 ## Quickstart
 
 <!--
