@@ -15,8 +15,8 @@ For more information on how to get started [refer to the full react-relay-instag
 ### 1. Clone example repository
 
 ```sh
-git clone https://github.com/graphcool-examples/react-graphql.git
-cd react-graphql/quickstart-with-relay-modern
+git clone https://github.com/JulianSuringa/quickstart-relay-modern.git quickstart-relay-modern
+cd quickstart-relay-modern
 ```
 
 ### 2. Create Graphcool service with the [Graphcool CLI](https://docs-next.graph.cool/reference/graphcool-cli/overview-zboghez5go)
