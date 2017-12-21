@@ -5,9 +5,7 @@
 * [Graphcool](https://www.graph.cool): Backend development framework based on GraphQL + Serverless
 
 ## Example 
-
-![](http://imgur.com/3S6fUeI.gif)
-![](https://i.imgur.com/Vdy8kAp.gifv)
+![](https://imgur.com/Vdy8kAp)
 ## Quickstart
 
 <!--
