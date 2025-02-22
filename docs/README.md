@@ -2,6 +2,8 @@
 
 ![Project Logo](https://placehold.co/600x400)
 
+![Project Logo](../images/Screenshot 2024-04-26 155559.png)
+
 ## Description
 A brief description of the project.
 
