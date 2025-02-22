@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo](https://via.placeholder.com/150)
+![Project Logo](https://placehold.co/600x400)
 
 ## Description
 A brief description of the project.
