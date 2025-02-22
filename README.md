@@ -6,7 +6,7 @@
 
 ## Example 
 ![](https://imgur.com/Vdy8kAp.gif)
-![Image Description](./images/screenshot.png)
+![Sample Image](https://www.w3.org/Icons/w3c_home.png)
 ## Quickstart
 
 <!--
