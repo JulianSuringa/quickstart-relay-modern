@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo](https://placehold.co/600x400)
+![Project Logo](https://github.com/JulianSuringa/quickstart-relay-modern/blob/master/images/Screenshot%202024-04-26%20155559.png))
 
 ## Description
 A brief description of the project.
