@@ -1,4 +1,5 @@
 # Quickstart with Relay Modern
+[Go to Docs](docs/test.md)
 
 * [React](https://facebook.github.io/react/): Frontend framework for building user interfaces
 * [Relay](https://facebook.github.io/relay/): Powerful GraphQL client developed by Facebook
